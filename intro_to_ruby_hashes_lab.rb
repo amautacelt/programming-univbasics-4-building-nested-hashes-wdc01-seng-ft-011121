@@ -3,7 +3,9 @@ def base_hash
   # keyword "return." Nice and neat.
   
   hash = {
-    :railroads => {}
+    :railroads => {
+      :pieces => 4
+    }
   }
 
 end
